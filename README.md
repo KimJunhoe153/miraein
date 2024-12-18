@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 주식회사 미래인 웹페이지
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
